@@ -10,7 +10,7 @@ body {
   color: #606c71; }
 
 a {
-  color: #1e6bb8;
+  color: #FC8683;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -54,7 +54,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #666;
+  color: #FC8683;
   text-align: center;
   background-color: #159957;
   background-image: url('https://67.media.tumblr.com/128921bfdc34fddd0e9aed10bafc709e/tumblr_od230ifXeK1uhezzfo1_400.gif') }
@@ -120,7 +120,7 @@ a {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #383e41;
-  background-color: #FFEFEF;
+  background-color: #000;
   border-radius: 0.3rem; }
 .main-content pre {
   padding: 0.8rem;
