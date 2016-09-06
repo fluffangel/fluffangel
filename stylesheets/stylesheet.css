@@ -18,9 +18,9 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
+  color: #CEB4E3;
   background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  border-color: #CEB4E3;
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -54,9 +54,9 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #FFEFEF;
+  color: #CEB4E3;
   text-align: center;
-  background-color: #FC8683;
+  background-color: #fff;
   background-image: url('https://67.media.tumblr.com/128921bfdc34fddd0e9aed10bafc709e/tumblr_od230ifXeK1uhezzfo1_400.gif') }
 
 @media screen and (min-width: 64em) {
